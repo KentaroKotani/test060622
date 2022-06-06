@@ -4,6 +4,8 @@ POLS 視野等表示 ver.9
 Stand-alone
 
 """
+
+#comment 060622
 # Import and setting ===========================================================================================
 import numpy as np
 import matplotlib.pyplot as plt
